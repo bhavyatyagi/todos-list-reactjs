@@ -10,6 +10,8 @@ export const AddTodo = ({ addTodo }) => {
             return;
         }
         addTodo(title, desc);
+        setTitle('');
+        setDesc('');
     }
     return (
         <div className='container my-3'>
