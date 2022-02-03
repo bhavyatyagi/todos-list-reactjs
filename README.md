@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Todos List Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is deployed at [Todos React App](https://todo-react-bhavya.herokuapp.com/).
 
 ## Available Scripts
 
